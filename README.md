@@ -50,5 +50,5 @@ Sebelum memulai, pastikan Anda telah memenuhi prasyarat berikut:
 
 ## Lisensi
 
-Aplikasi Address Book didistribusikan di bawah [lisensi MIT](./LICENSE.txt). Lihat file LICENSE untuk informasi selengkapnya.
+Aplikasi Address Book didistribusikan di bawah [lisensi MIT](./LICENSE.md). Lihat file LICENSE untuk informasi selengkapnya.
 
